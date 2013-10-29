@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Contact Us - Paint Republic Website Template</title>
-	<link rel="stylesheet" href="/GroupUp/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" class="logo"><img src="/GroupUp/images/logo.png" alt=""></a>
+			<a href="index.html" class="logo"><img src="../../images/logo.png" alt=""></a>
 			<ul>
 				<li>
 					<a href="index.html">home</a>

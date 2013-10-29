@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Paint Republic Website Template</title>
-	<link rel="stylesheet" href="/GroupUp/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" class="logo"><img src="/GroupUp/images/logo.png" alt=""></a>
+			<a href="index.html" class="logo"><img src="../../images/logo.png" alt=""></a>
 			<ul>
 				<li class="selected">
 					<a href="index.html">home</a>
@@ -34,7 +34,7 @@
 	</div>
 	<div id="body">
 		<div class="header">
-			<img src="/GroupUp/images/colors.jpg" alt="">
+			<img src="../../images/colors.jpg" alt="">
 		</div>
 		<div class="body">
 			<h1>Colors to life</h1>
@@ -48,13 +48,13 @@
 		<div class="footer">
 			<ul>
 				<li>
-					<a href="library.html"><img src="/GroupUp/images/latest-colors.png" alt=""></a>
+					<a href="library.html"><img src="../../images/latest-colors.png" alt=""></a>
 				</li>
 				<li>
-					<a href="gallery.html"><img src="/GroupUp/images/inspiration.png" alt=""></a>
+					<a href="gallery.html"><img src="../../images/inspiration.png" alt=""></a>
 				</li>
 				<li>
-					<a href="contact.html"><img src="/GroupUp/images/color-expert.png" alt=""></a>
+					<a href="contact.html"><img src="../../images/color-expert.png" alt=""></a>
 				</li>
 			</ul>
 		</div>

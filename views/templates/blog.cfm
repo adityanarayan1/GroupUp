@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Blog - Paint Republic Website Template</title>
-	<link rel="stylesheet" href="/GroupUp/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" class="logo"><img src="/GroupUp/images/logo.png" alt=""></a>
+			<a href="index.html" class="logo"><img src="../../images/logo.png" alt=""></a>
 			<ul>
 				<li>
 					<a href="index.html">home</a>
@@ -87,28 +87,28 @@
 			<div class="content">
 				<div class="article">
 					<h3>Modern life style</h3>
-					<a href="#" class="figure"><img src="/GroupUp/images/modern-lifestyle.jpg" alt=""></a>
+					<a href="#" class="figure"><img src="../../images/modern-lifestyle.jpg" alt=""></a>
 					<p>
 						This website template has been designed by freewebsitetemplates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help.
 					</p>
 				</div>
 				<div class="article">
 					<h3>Color Harmony</h3>
-					<a href="#" class="figure"><img src="/GroupUp/images/color-harmony.jpg" alt=""></a>
+					<a href="#" class="figure"><img src="../../images/color-harmony.jpg" alt=""></a>
 					<p>
 						This website template has been designed by freewebsitetemplates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help.
 					</p>
 				</div>
 				<div class="article">
 					<h3>Contemporary Touch</h3>
-					<a href="#" class="figure"><img src="/GroupUp/images/contemporary-touch.jpg" alt=""></a>
+					<a href="#" class="figure"><img src="../../images/contemporary-touch.jpg" alt=""></a>
 					<p>
 						This website template has been designed by freewebsitetemplates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help.
 					</p>
 				</div>
 				<div class="article">
 					<h3>Colors that styles</h3>
-					<a href="#" class="figure"><img src="/GroupUp/images/colors-thats-styles.jpg" alt=""></a>
+					<a href="#" class="figure"><img src="../../images/colors-thats-styles.jpg" alt=""></a>
 					<p>
 						This website template has been designed by freewebsitetemplates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help.
 					</p>

@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Color Library - Paint Republic Website Template</title>
-	<link rel="stylesheet" href="/GroupUp/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" class="logo"><img src="/GroupUp/images/logo.png" alt=""></a>
+			<a href="index.html" class="logo"><img src="../../images/logo.png" alt=""></a>
 			<ul>
 				<li>
 					<a href="index.html">home</a>
@@ -37,100 +37,100 @@
 		<div class="content">
 			<ul>
 				<li>
-					<a href="#"><img src="/GroupUp/images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
+					<a href="#"><img src="../../images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
+					<a href="#"><img src="../../images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
+					<a href="#"><img src="../../images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
+					<a href="#"><img src="../../images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/my-lady.jpg" alt=""><span>My lady</span></a>
+					<a href="#"><img src="../../images/my-lady.jpg" alt=""><span>My lady</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/my-lady.jpg" alt=""><span>My lady</span></a>
+					<a href="#"><img src="../../images/my-lady.jpg" alt=""><span>My lady</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-time.jpg" alt=""><span>Spring time</span></a>
+					<a href="#"><img src="../../images/spring-time.jpg" alt=""><span>Spring time</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-time.jpg" alt=""><span>Spring time</span></a>
+					<a href="#"><img src="../../images/spring-time.jpg" alt=""><span>Spring time</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
+					<a href="#"><img src="../../images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
+					<a href="#"><img src="../../images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
+					<a href="#"><img src="../../images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
+					<a href="#"><img src="../../images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/techno.jpg" alt=""><span>Techno</span></a>
+					<a href="#"><img src="../../images/techno.jpg" alt=""><span>Techno</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/techno.jpg" alt=""><span>Techno</span></a>
+					<a href="#"><img src="../../images/techno.jpg" alt=""><span>Techno</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
+					<a href="#"><img src="../../images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
+					<a href="#"><img src="../../images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
+					<a href="#"><img src="../../images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
+					<a href="#"><img src="../../images/summer-delight.jpg" alt=""><span>Summer Delight</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
+					<a href="#"><img src="../../images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
+					<a href="#"><img src="../../images/pink-honey.jpg" alt=""><span>Pink Honey</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/my-lady.jpg" alt=""><span>My lady</span></a>
+					<a href="#"><img src="../../images/my-lady.jpg" alt=""><span>My lady</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/my-lady.jpg" alt=""><span>My lady</span></a>
+					<a href="#"><img src="../../images/my-lady.jpg" alt=""><span>My lady</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-time.jpg" alt=""><span>Spring time</span></a>
+					<a href="#"><img src="../../images/spring-time.jpg" alt=""><span>Spring time</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-time.jpg" alt=""><span>Spring time</span></a>
+					<a href="#"><img src="../../images/spring-time.jpg" alt=""><span>Spring time</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
+					<a href="#"><img src="../../images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
+					<a href="#"><img src="../../images/spring-summer.jpg" alt=""><span>Spring to summer</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
+					<a href="#"><img src="../../images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
+					<a href="#"><img src="../../images/blue-ice.jpg" alt=""><span>Blue ice</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/techno.jpg" alt=""><span>Techno</span></a>
+					<a href="#"><img src="../../images/techno.jpg" alt=""><span>Techno</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/techno.jpg" alt=""><span>Techno</span></a>
+					<a href="#"><img src="../../images/techno.jpg" alt=""><span>Techno</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
+					<a href="#"><img src="../../images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
+					<a href="#"><img src="../../images/pink-bubble.jpg" alt=""><span>Pink bubble</span></a>
 				</li>
 			</ul>
 			<ul class="paging">

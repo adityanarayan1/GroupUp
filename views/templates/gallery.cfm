@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Gallery - Paint Republic Website Template</title>
-	<link rel="stylesheet" href="/GroupUp/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../../css/style.css" type="text/css">
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" class="logo"><img src="/GroupUp/images/logo.png" alt=""></a>
+			<a href="index.html" class="logo"><img src="../../images/logo.png" alt=""></a>
 			<ul>
 				<li>
 					<a href="index.html">home</a>
@@ -37,31 +37,31 @@
 		<div class="content">
 			<ul class="gallery">
 				<li>
-					<a href="#"><img src="/GroupUp/images/deco-styles.jpg" alt=""><span>deco styles</span></a>
+					<a href="#"><img src="../../images/deco-styles.jpg" alt=""><span>deco styles</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/girls-bedroom.jpg" alt=""><span>girl's bedroom</span></a>
+					<a href="#"><img src="../../images/girls-bedroom.jpg" alt=""><span>girl's bedroom</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/entertainment-room.jpg" alt=""><span>entertainment room</span></a>
+					<a href="#"><img src="../../images/entertainment-room.jpg" alt=""><span>entertainment room</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/living-room.jpg" alt=""><span>living room</span></a>
+					<a href="#"><img src="../../images/living-room.jpg" alt=""><span>living room</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/masters-bedroom.jpg" alt=""><span>master's bedroom</span></a>
+					<a href="#"><img src="../../images/masters-bedroom.jpg" alt=""><span>master's bedroom</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/kitchen.jpg" alt=""><span>kitchen</span></a>
+					<a href="#"><img src="../../images/kitchen.jpg" alt=""><span>kitchen</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/home-office.jpg" alt=""><span>home office</span></a>
+					<a href="#"><img src="../../images/home-office.jpg" alt=""><span>home office</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/dining-room.jpg" alt=""><span>dining room</span></a>
+					<a href="#"><img src="../../images/dining-room.jpg" alt=""><span>dining room</span></a>
 				</li>
 				<li>
-					<a href="#"><img src="/GroupUp/images/lounge.jpg" alt=""><span>lounge</span></a>
+					<a href="#"><img src="../../images/lounge.jpg" alt=""><span>lounge</span></a>
 				</li>
 			</ul>
 		</div>
