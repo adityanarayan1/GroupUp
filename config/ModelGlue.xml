@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelglue>
+
+<controllers>
+	<controller id="Controller" type="GroupUp.controller.Controller">
+	<!-- 
+	<message-listener message="message" function="controllerFunction" />
+	-->
+	</controller>
+</controllers>
+	
+	<event-types>
+	<!-- Sample Event Type:
+		You can use before, after or both.
+		<event-type name="templatedPage">
+			<before>
+				<results>
+					<result do="SomethingThatShouldRunBefore"/>
+				</results>
+			</before>
+			<after>
+				<results>
+					<result do="SomethingThatShouldRunAfter"/>
+				</results>
+			</after>		
+		</event-type>
+	-->
+	</event-types>
+		
+<event-handlers>
+
+	<event-handler name="page.about">
+		<results>
+			<result do="template.about" />
+		</results>
+	</event-handler>
+	<event-handler name="page.blog">
+		<results>
+			<result do="template.blog" />
+		</results>
+	</event-handler>
+	<event-handler name="page.contact">
+		<results>
+			<result do="template.contact" />
+		</results>
+	</event-handler> 
+	<event-handler name="page.gallery">
+		<results>
+			<result do="template.gallery" />
+		</results>
+	</event-handler> 
+	<event-handler name="page.library">
+		<results>
+			<result do="template.library" />
+		</results>
+	</event-handler> 
+	
+	<!-- A homepage for your application. -->
+	<event-handler name="page.index">
+		<broadcasts />
+		<results>
+			<result do="template.index" />
+		</results>
+		<!--<views>
+			<include name="body" template="pages/index.cfm" />
+		</views>-->
+	</event-handler>
+
+	<!-- An error event to show when an error occurs, much like <cferror>. -->
+	<event-handler name="page.error">
+		<broadcasts />
+		<results>
+			<result do="template.main" />
+		</results>
+		<views>
+			<include name="body" template="pages/exception.cfm" />
+		</views>
+	</event-handler>
+
+	<!-- A "404" event to show when the requested event isn't defined. -->
+	<event-handler name="page.missing">
+		<broadcasts />
+		<results>
+			<result do="template.main" />
+		</results>
+		<views>
+			<include name="body" template="pages/missingEvent.cfm" />
+		</views>
+	</event-handler>
+	
+	<!-- Private events:  can't be accessed through a URL -->
+	<event-handler access="private" name="template.main">
+		<views>
+			<include name="main" template="templates/main.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.index">
+		<views>
+			<include name="index" template="templates/index.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.about">
+		<views>
+			<include name="about" template="templates/about.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.blog">
+		<views>
+			<include name="blog" template="templates/blog.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.contact">
+		<views>
+			<include name="contact" template="templates/contact.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.gallery">
+		<views>
+			<include name="gallery" template="templates/gallery.cfm" />
+		</views>
+	</event-handler>
+	<event-handler access="private" name="template.library">
+		<views>
+			<include name="library" template="templates/library.cfm" />
+		</views>
+	</event-handler>
+</event-handlers>
+	
+</modelglue>
+
